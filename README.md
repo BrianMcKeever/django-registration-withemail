@@ -13,7 +13,8 @@ Installing
 
 To install django-registration-withemail, run on terminal: ::
 
-    $ [sudo] pip install registration_withemail
+    $ [sudo] pip install django-compresshtml
+    $ [sudo] pip install django-registration-withemail
 
 	Add "registration_withemail" to your INSTALLED_APPS setting like this::
 
